@@ -1,3 +1,5 @@
+![github_photo](/photo/github_banner.jpg)
+
 # 💫 About Me:
 I'm Skylar, 20 years old. I'm programmer.<br>I'm currently working on web development.<br>
 
