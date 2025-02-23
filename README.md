@@ -1,4 +1,4 @@
-![github_photo](/photo/github_banner.jpg)
+
 
 # About Me:
 I'm Skylar, 20 years old. I'm programmer.<br>I'm currently working on web development.<br>
@@ -10,5 +10,5 @@ I'm Skylar, 20 years old. I'm programmer.<br>I'm currently working on web develo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=howtofightforstudy&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+![github_photo](/photo/github_banner.jpg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
