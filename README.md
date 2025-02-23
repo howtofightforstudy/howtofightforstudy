@@ -1,10 +1,10 @@
 ![github_photo](/photo/github_banner.jpg)
 
-# 💫 About Me:
+# About Me:
 I'm Skylar, 20 years old. I'm programmer.<br>I'm currently working on web development.<br>
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/howtofightforstudy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:howtofightforstudy@gmail.com) 
 
 # 💻 Tech Stack:
